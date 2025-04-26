@@ -18,6 +18,7 @@ Tech Stack
 Installation
 Clone the repository:
 git clone https://github.com/thejasvini-292004/Emotion-Recognition-Model.git
+
 cd Emotion-Recognition-Model
 
 Install the dependencies:
