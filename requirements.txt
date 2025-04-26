@@ -1,9 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+librosa
 dash
 flask
-numpy
-librosa
-scikit-learn
-pandas
-matplotlib
-plotly
 gunicorn
+dash
