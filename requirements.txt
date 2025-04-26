@@ -1,0 +1,9 @@
+dash
+flask
+numpy
+librosa
+scikit-learn
+pandas
+matplotlib
+plotly
+gunicorn
